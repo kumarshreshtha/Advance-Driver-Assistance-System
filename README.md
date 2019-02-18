@@ -5,7 +5,6 @@ An intelligent driver assistance system that comprises of 4 sub-systems:
 * Driver Drowsiness Detection
 * Safe Distance Calculator
 
+**Dependencies**: Keras, Tensorflow, Caffe, OpenCV, dlib, imutils, Numpy, Scipy, Glob, Matplotlib.
+
 Download full report presented at **IEEE Computer Science Annual Symposium 2018** [here](https://drive.google.com/file/d/1mSHJo8nVWsMGwLTwNI634-j4hCzr4ShL/view).
-
-
-
